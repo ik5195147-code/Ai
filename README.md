@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NUSU Starter (Android, Kotlin)
 
 Voice assistant: Gemini Live (direct WebSocket, no backend) + AccessibilityService phone control.
@@ -18,3 +19,6 @@ Voice assistant: Gemini Live (direct WebSocket, no backend) + AccessibilityServi
 - NusuAccessibilityService.kt   read screen / tap / type / scroll / back / home
 - AssistantService.kt      foreground service that keeps it running
 - SecureStore.kt           API key encrypted on device
+=======
+# Ai
+>>>>>>> aeae7b729fb4ff64939e036797464857f30129fb
